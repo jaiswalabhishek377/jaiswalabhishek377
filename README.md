@@ -1,8 +1,7 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/1f1adfc7-d472-4c44-805d-a6e4f3a57ea6" width="600" autoplay loop muted playsinline></video>
-
+ <img src="https://github.com/user-attachments/assets/c03bef73-30d8-4a72-a177-549d135f840e" alt="Ultra Instinct Goku" width="350"/>
   <br/>
-
+  
   # ⚡ ABHISHEK JAISWAL ⚡
   ### *"Always pushing past the limit."*
 
