@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/ZNOB6Cj-j6kAAAAC/goku-ultra-instinct.gif" alt="Ultra Instinct Goku" width="600"/>
+  <video src="https://github.com/user-attachments/assets/1f1adfc7-d472-4c44-805d-a6e4f3a57ea6" width="600" autoplay loop muted playsinline></video>
 
   <br/>
 
